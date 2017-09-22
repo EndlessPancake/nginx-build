@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION=$(cat nginx-version)
-USER="fabregas4you"
+USER="EndlessPancake"
 REPO="nginx-build"
 DATE=`date +%Y%m%d%H%M`
 
